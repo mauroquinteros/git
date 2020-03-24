@@ -6,9 +6,9 @@ Este repositorio es un resumen del [curso de Git y Github](https://platzi.com/cu
 Si deseas aportar a este repositorio puedes hacer un pull request una vez hayas terminado de leer este resumen.
 
  1. Cómo funciona Git
-  - [Instalación](###Instalación-de-Git)
-  - [Configuración](###Configuración-de-Git)
-  - [Beneficios](###Beneficios-de-Git)
+  - [Instalación](#instalación-de-git)
+  - [Configuración](#configuración-de-git)
+  - [Beneficios](#beneficios-de-git)
  2. Áreas de trabajo de Git
  3. Flujo básico de trabajo de git
  4. Los estados de un archivo
