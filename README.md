@@ -1,6 +1,5 @@
 # Introducción a Git y GitHub
 
-## Contenido
 Este repositorio es un resumen del [curso de Git y Github](https://platzi.com/cursos/git-github/) en Platzi 💚
 
 Si deseas aportar a este repositorio puedes hacer un pull request una vez hayas terminado de leer este resumen.
@@ -65,7 +64,7 @@ Se puede ver como Git guarda solo los nuevos cambios realizados sobre el archivo
   ```
 
   <div align="right">
-    <a href="#contenido">volver al inicio</a>
+    <a href="#introducción-a-git-y-github">volver al inicio</a>
   </div>
 
 ### Configuración de Git
